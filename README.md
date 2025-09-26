@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Profile 👋
-![gambar](img/gambar.jpeg)
+![gambar](img/github-header-banner.png)
 <!--
 **LuthfanHilmi/LuthfanHilmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
